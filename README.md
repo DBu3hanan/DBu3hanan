@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Diamond Buchanan
-- 👀 I’m an aspiring web developer / designer / programmer
+- Diamond Buchanan
+- An aspiring web developer
 - Jamaican
 - Female
 - Computing Student
