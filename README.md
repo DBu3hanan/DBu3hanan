@@ -1,5 +1,5 @@
 - Diamond Buchanan
-- An aspiring web developer
+- An Aspiring Web Developer || Technical Officer
 - Jamaican
 - Female
 - Computing Student
