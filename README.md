@@ -1,10 +1,5 @@
-- Diamond Buchanan
-- An Aspiring Web Developer || Technical Officer
-- Jamaican
-- Female
-- Computing Student
+Hello, my name is Diamond A. Buchanan.
 
-<!---
-DBu3hanan/DBu3hanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an aspiring Web Developer and Database Administrator currently pursuing a Computing degree at The University of Technology, Jamaica. With a strong foundation in SQL, ASP.NET, Python, Java, and Microsoft Office Suite, I am passionate about creating efficient, user-friendly applications and managing complex databases.
+
+Throughout my academic journey, I have worked on projects like Xfinity Tools, a web-based productivity platform that I created and have managed since 2023. This experience has enhanced my skills in web development, system architecture, and database management. If you’d like to explore Xfinity Tools, you can do so at https://xfinitytools.github.io/.
